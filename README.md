@@ -10,9 +10,15 @@ firefox is the best browser
 
 linux enthusiast
 
-i run an unblocked games site here too.. check my github repos
+# stuff
 
-[matrix](https://matrix.to/#/@xyz:4d2.org) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:l3che@macaw.me) 
+[unblocked games website](https://github.com/voxel-im/YinYang)
+
+[throw me an email](mailto:timewaster3@proton.me)
+
+[matrix](https://matrix.to/#/@xyz:4d2.org) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:l3che@macaw.me) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) 
+
+discord: @iatedicecubes 
 
 # awesome peeps
 
