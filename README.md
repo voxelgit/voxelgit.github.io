@@ -35,6 +35,9 @@ discord: @iatedicecubes
     <a href="https://jack.cab"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/45d61d4d-2cd9-4a4d-a8e9-9ad723e0ad4f"></a>
       <a href="https://astrid.tech"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/9804eea2-7e6d-4bc8-a414-48e9ab6199df"></a>
       <a href="https://gra.phite.ro"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/e9d5f5eb-b42d-470e-8422-5d75e6bc1bd3"></a>
+      <a href="https://freeplay.floof.company"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/8a5bc998-9a68-4344-b3cc-804f16987902"></a>
+ <a href="https://moth.monster"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/33875518-fe37-44d9-bacb-38f85e288210"></a>
+
 
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/voxel-im/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/voxel-im/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/voxel-im/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
