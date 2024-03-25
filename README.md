@@ -14,6 +14,8 @@ linux enthusiast
 
 [unblocked games website](https://github.com/voxel-im/YinYang)
 
+[memes i archived](https://github.com/voxel-im/vault)
+
 [throw me an email](mailto:timewaster3@proton.me)
 
 [matrix](https://matrix.to/#/@xyz:4d2.org) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:l3che@macaw.me) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) 
