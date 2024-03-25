@@ -1,6 +1,6 @@
 ![Untitled design (1)](https://github.com/voxel-im/voxel-im.github.io/assets/164063937/d314669c-e18c-470c-9819-6c526cb04546)
-#
-hello. i am voxel. i think you can guess why that's my name.
+
+# hello. i am voxel. i think you can guess why that's my name.
 
 15
 
