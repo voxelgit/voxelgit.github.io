@@ -22,7 +22,7 @@ linux enthusiast
 
 discord: @iatedicecubes 
 
-# awesome peeps
+# awesome people
 
  <a href="https://ari.lt"><img src="https://camo.githubusercontent.com/05029a0c926c888dabb4482f9eb8ac06ac540a588cd495401e0a52225ed9a3b8/68747470733a2f2f6172692e6c742f62616467652e706e67"></a>
  <a href="https://aagaming.me"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/10652165-d245-4880-8a48-da2c4e7765af"></a>
@@ -31,3 +31,5 @@ discord: @iatedicecubes
   <a href="https://sleepy.ink"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/43cea81d-ff51-4223-978c-3e93c2295c58"></a>
   <a href="https://robin-black.com"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/76e6a594-348b-495b-84b2-69e0134ba654"></a>
   <a href="https://georgemoody.envs.net/"><img border="1" src="https://georgemoody.envs.net/files/button.png"></a>
+  <a href="https://micro.pages.gay/"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/cedd4a8f-d601-45fa-ab2f-a313c1399127"></a>
+    <a href="https://jack.cab"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/45d61d4d-2cd9-4a4d-a8e9-9ad723e0ad4f"></a>
