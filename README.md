@@ -23,3 +23,4 @@ i run an unblocked games site here too.. check my github repos
   <a href="https://sleepy.ink"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/43cea81d-ff51-4223-978c-3e93c2295c58"></a>
   <a href="https://robin-black.com"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/76e6a594-348b-495b-84b2-69e0134ba654"></a>
   <a href="https://georgemoody.envs.net/"><img border="1" src="https://georgemoody.envs.net/files/button.png"></a>
+theme: jekyll-theme-hacker
