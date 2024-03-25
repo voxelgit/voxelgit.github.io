@@ -33,3 +33,4 @@ discord: @iatedicecubes
   <a href="https://georgemoody.envs.net/"><img border="1" src="https://georgemoody.envs.net/files/button.png"></a>
   <a href="https://micro.pages.gay/"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/cedd4a8f-d601-45fa-ab2f-a313c1399127"></a>
     <a href="https://jack.cab"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/45d61d4d-2cd9-4a4d-a8e9-9ad723e0ad4f"></a>
+      <a href="https://astrid.tech"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/9804eea2-7e6d-4bc8-a414-48e9ab6199df"></a>
