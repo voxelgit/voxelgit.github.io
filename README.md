@@ -18,7 +18,7 @@ linux enthusiast
 
 [throw me an email](mailto:timewaster3@proton.me)
 
-[matrix](https://matrix.to/#/@xyz:4d2.org) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:l3che@macaw.me) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) 
+[matrix](https://matrix.to/#/@xyz:pain.agency) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:l3che@macaw.me) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) 
 
 discord: @iatedicecubes 
 
@@ -41,7 +41,3 @@ discord: @iatedicecubes
 
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/voxel-im/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/voxel-im/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/voxel-im/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-
-<audio controls autoplay>
-  <source src="https://audio.jukehost.co.uk/12mvFzlS6cEqYnzeifqHXp9mKoMCvhs8" type="audio/mpeg">
-</audio>
