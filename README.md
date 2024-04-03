@@ -1,6 +1,6 @@
-![Untitled design (1)](https://github.com/voxel-im/voxel-im.github.io/assets/164063937/d314669c-e18c-470c-9819-6c526cb04546)
+![6479-herbert](https://github.com/voxel-im/voxel-im.github.io/assets/164063937/6d283dc3-7dd6-4f57-b0b0-c8a34aa8a5cc)
 
-# hello. i am voxel. i think you can guess why that's my name.
+# voxel time
 
 15
 
@@ -20,7 +20,7 @@ linux enthusiast
 
 [matrix](https://matrix.to/#/@xyz:pain.agency) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:l3che@macaw.me) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) 
 
-discord: @iatedicecubes 
+discord: springtastic.com
 
 # awesome people
 
@@ -31,13 +31,8 @@ discord: @iatedicecubes
   <a href="https://sleepy.ink"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/43cea81d-ff51-4223-978c-3e93c2295c58"></a>
   <a href="https://robin-black.com"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/76e6a594-348b-495b-84b2-69e0134ba654"></a>
   <a href="https://georgemoody.envs.net/"><img border="1" src="https://georgemoody.envs.net/files/button.png"></a>
-  <a href="https://micro.pages.gay/"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/cedd4a8f-d601-45fa-ab2f-a313c1399127"></a>
     <a href="https://jack.cab"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/45d61d4d-2cd9-4a4d-a8e9-9ad723e0ad4f"></a>
       <a href="https://astrid.tech"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/9804eea2-7e6d-4bc8-a414-48e9ab6199df"></a>
       <a href="https://gra.phite.ro"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/e9d5f5eb-b42d-470e-8422-5d75e6bc1bd3"></a>
       <a href="https://freeplay.floof.company"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/8a5bc998-9a68-4344-b3cc-804f16987902"></a>
- <a href="https://moth.monster"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/33875518-fe37-44d9-bacb-38f85e288210"></a>
-
-
-
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/voxel-im/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/voxel-im/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/voxel-im/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
