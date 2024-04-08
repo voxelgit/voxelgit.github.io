@@ -25,6 +25,7 @@ discord: springtastic.com
 # awesome people
 
  <a href="https://ari.lt"><img src="https://camo.githubusercontent.com/05029a0c926c888dabb4482f9eb8ac06ac540a588cd495401e0a52225ed9a3b8/68747470733a2f2f6172692e6c742f62616467652e706e67"></a>
+ <a href="https://fsky.io"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/be1c0764-0a9d-4db0-a43f-8bc212cb55fa"></a>
  <a href="https://aagaming.me"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/10652165-d245-4880-8a48-da2c4e7765af"></a>
   <a href="https://trypancakes.com"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/fb58a146-269d-45c6-81e0-6d27989aff72"></a>
   <a href="https://authenyo.xyz"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/5b2ee765-9d3d-434e-b18a-6d456004ce26"></a>
