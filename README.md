@@ -10,15 +10,21 @@ firefox is the best browser
 
 linux enthusiast
 
-# stuff
+# where i am:
 
-[unblocked games website](https://github.com/voxel-im/YinYang)
+[email](mailto:timewaster3@proton.me)
+[fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:l3che@macaw.me) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) 
 
-[memes i archived](https://github.com/voxel-im/vault)
+# matrix
+my main account is @xyz:pain.agency but i have a few others i'll list here in case someone tries to impersonate me.
 
-[throw me an email](mailto:timewaster3@proton.me)
+@x:ari.lt
 
-[matrix](https://matrix.to/#/@xyz:pain.agency) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:l3che@macaw.me) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) 
+@swoosh:usesarchbtw.lol
+
+@xyz:oikei.net
+
+@google.com:skye.vg
 
 discord: springtastic.com
 
