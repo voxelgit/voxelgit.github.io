@@ -12,8 +12,7 @@ linux enthusiast
 
 # where i am:
 
-[email](mailto:timewaster3@proton.me)
-[fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:l3che@macaw.me) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) 
+[email](mailto:glorbatron@outlook.com) [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:the@telepath.im) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) 
 
 # matrix
 my main account is @xyz:pain.agency but i have a few others i'll list here in case someone tries to impersonate me.
@@ -38,6 +37,7 @@ discord: springtastic.com
   <a href="https://sleepy.ink"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/43cea81d-ff51-4223-978c-3e93c2295c58"></a>
   <a href="https://robin-black.com"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/76e6a594-348b-495b-84b2-69e0134ba654"></a>
   <a href="https://georgemoody.envs.net/"><img border="1" src="https://georgemoody.envs.net/files/button.png"></a>
+      <a href="https://jack.cab"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/45d61d4d-2cd9-4a4d-a8e9-9ad723e0ad4f"></a>
       <a href="https://astrid.tech"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/9804eea2-7e6d-4bc8-a414-48e9ab6199df"></a>
       <a href="https://gra.phite.ro"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/e9d5f5eb-b42d-470e-8422-5d75e6bc1bd3"></a>
       <a href="https://freeplay.floof.company"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/8a5bc998-9a68-4344-b3cc-804f16987902"></a>
