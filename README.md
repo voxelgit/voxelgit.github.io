@@ -4,7 +4,7 @@
 
 15
 
-he/any
+he/they
 
 firefox is the best browser
 
@@ -12,7 +12,7 @@ linux enthusiast
 
 # my stuff
 
-[email](mailto:glorbatron@outlook.com) [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:the@telepath.im) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) | [last.fm](https://last.fm/user/voxel67)
+[email](mailto:glorbatron@outlook.com) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:the@telepath.im) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) | [last.fm](https://last.fm/user/voxel67)
 
 # matrix
 my main account is @xyz:pain.agency but i have a few others i'll list here in case someone tries to impersonate me.
