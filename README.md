@@ -12,20 +12,9 @@ linux enthusiast
 
 # my stuff
 
-[email](mailto:glorbatron@outlook.com) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:the@telepath.im) | [watzatsong](https://watzatsong.com/en/profile/SwooshFM) | [last.fm](https://last.fm/user/voxel67)
+[email](mailto:glorbatron@outlook.com) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:the@telepath.im) | [watzatsong](https://watzatsong.com/en/profile/okayjelloo) | [matrix](https://matrix.to/#/@xyz:pain.agency)
 
-# matrix
-my main account is @xyz:pain.agency but i have a few others i'll list here in case someone tries to impersonate me.
-
-@x:ari.lt
-
-@swoosh:usesarchbtw.lol
-
-@xyz:oikei.net
-
-@google.com:skye.vg
-
-discord: springtastic.com
+discord: torchlol
 
 # awesome people
 
