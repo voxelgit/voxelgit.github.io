@@ -8,7 +8,7 @@ he/him
 
 firefox is the best browser
 
-linux enthusiast
+tv archival/dub enthusiast
 
 # my stuff
 
