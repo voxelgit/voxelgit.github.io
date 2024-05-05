@@ -12,7 +12,7 @@ tv archival/dub enthusiast
 
 # my stuff
 
-[email](mailto:glorbatron@outlook.com) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:the@telepath.im)
+[email](mailto:glorbatron@outlook.com) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:the@telepath.im) | [matrix](https://matrix.to/#/@xyz:pain.agency)
 
 discord: torchlol
 
