@@ -1,21 +1,21 @@
-![6479-herbert](https://github.com/voxel79/voxel79.github.io/assets/164063937/f09b8f82-8e31-43de-8b87-6667bff88b95)
-# bird
+# 
+![360_F_503281274_Li3lHoRErsjGiyjiqHBlcjhwewJRJ8cL](https://github.com/cold360/cold360.github.io/assets/164063937/d602517a-25d4-4832-9859-a3f68b23a4ad)
+
+Voxel
 
 15
 
-he/him
+LibreWolf is the best browser
 
-firefox is the best browser
+TV enthusiast
 
-tv archival/dub enthusiast
-
-# my stuff
+# My stuff
 
 [email](mailto:glorbatron@outlook.com) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:the@telepath.im) | [matrix](https://matrix.to/#/@bird:tchncs.de)
 
 discord: torchlol
 
-# awesome sauce
+# Awesome sauce
 
  <a href="https://ari.lt"><img src="https://camo.githubusercontent.com/05029a0c926c888dabb4482f9eb8ac06ac540a588cd495401e0a52225ed9a3b8/68747470733a2f2f6172692e6c742f62616467652e706e67"></a>
  <a href="https://fsky.io"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/be1c0764-0a9d-4db0-a43f-8bc212cb55fa"></a>
