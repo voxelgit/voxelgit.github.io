@@ -1,4 +1,3 @@
-# 
 ![360_F_503281274_Li3lHoRErsjGiyjiqHBlcjhwewJRJ8cL](https://github.com/cold360/cold360.github.io/assets/164063937/d602517a-25d4-4832-9859-a3f68b23a4ad)
 
 Voxel
@@ -11,7 +10,7 @@ TV enthusiast
 
 # My stuff
 
-[email](mailto:glorbatron@outlook.com) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:the@telepath.im) | [matrix](https://matrix.to/#/@bird:tchncs.de)
+[email](mailto:glorbatron@outlook.com) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:konot@teftera.com) | [matrix](https://matrix.to/#/@bird:tchncs.de)
 
 discord: torchlol
 
