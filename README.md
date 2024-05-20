@@ -33,3 +33,4 @@ discord: torchlol
       <a href="https://freeplay.floof.company"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/8a5bc998-9a68-4344-b3cc-804f16987902"></a>
 <a href="https://melankorin.net/"><img src="https://melankorin.net/assets/img/buttons/button-2.gif" alt=""></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/68877b87-acef-46d2-9358-3cf7c4bc23ab"></a>
+<a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/ed28d206-04e8-4a6e-89bd-9d79937f198a"></a>
