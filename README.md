@@ -21,6 +21,7 @@ discord: torchlol
  <a href="https://aagaming.me"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/10652165-d245-4880-8a48-da2c4e7765af"></a>
  <a href="https://arrayinamatrix.xyz"><img src="https://arrayinamatrix.xyz/res/site/banners/custom/black_88x31.gif"></a>
   <a href="https://trypancakes.com"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/fb58a146-269d-45c6-81e0-6d27989aff72"></a>
+  <a href="https://micro.pages.gay"><img src="https://micro.pages.gay/buttons/micro.png"></a>
   <a href="https://authenyo.xyz"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/5b2ee765-9d3d-434e-b18a-6d456004ce26"></a>
   <a href="https://sleepy.ink"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/43cea81d-ff51-4223-978c-3e93c2295c58"></a>
   <a href="https://omada.cafe/"><img src="https://omada.cafe/omada.gif" alt="website button for omada.cafe, an private and secure alternative provider.">
@@ -31,10 +32,9 @@ discord: torchlol
   <a href="https://ublockorigin.com"><img src="https://trypancakes.com/assets/buttons/ublock.png"></a>
       <a href="https://astrid.tech"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/9804eea2-7e6d-4bc8-a414-48e9ab6199df"></a>
       <a href="https://gra.phite.ro"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/e9d5f5eb-b42d-470e-8422-5d75e6bc1bd3"></a>
-      <a href="https://freeplay.floof.company"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/8a5bc998-9a68-4344-b3cc-804f16987902"></a>
+      <a href="https://freeplay.floof.company"><img src="https://freeplay.floof.company/assets/buttons/free.gif"></a>
 <a href="https://melankorin.net/"><img src="https://melankorin.net/assets/img/buttons/button-2.gif" alt=""></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/68877b87-acef-46d2-9358-3cf7c4bc23ab"></a>
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/ed28d206-04e8-4a6e-89bd-9d79937f198a"></a>
 <a href="https://sweetcoffy.pages.gay"><img src="https://sweetcoffy.pages.gay/assets/button.png"></a>
-<a href="https://micro.pages.gay"><img src="https://micro.pages.gay/buttons/micro.png"></a>
 <a href="https://houl.floof.company"><img src="https://houl.floof.company/assets/img/button.png"></a>
