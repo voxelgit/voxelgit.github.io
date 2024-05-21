@@ -41,3 +41,5 @@ discord: torchlol
 <a href="https://houl.floof.company"><img src="https://houl.floof.company/assets/img/button.png"></a>
 <a href="https://charlie.downgraded.uk"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/19f6ad96-31b0-4ceb-a618-43c90958392f"></a>
 <a href="https://ultra0.xyz"><img src="https://ultra0.xyz/assets/basement_button-8bb3ccbe62d39618ce72f3ab1e78dd9e32c99f2a.gif"></a>
+<a href="https://notnite.com"><img src="https://n2.pm/88x31s/notnite.png"></a>
+<a href="https://code.visualstudio.com"><img src="https://notnite.com/buttons/vscbutton.gif"></a>
