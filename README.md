@@ -28,6 +28,7 @@ discord: torchlol
   <a href="https://robin-black.com"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/76e6a594-348b-495b-84b2-69e0134ba654"></a>
   <a href="https://bomberfish.ca"><img src="https://bomberfish.ca/buttons/button.gif"></a>              
 <a href="https://tilde.town/~georgemoody/"><img border="1" src="https://tilde.town/~georgemoody/files/button.png"></a>
+<a href="https://beebl.es"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/304f2261-c2d8-4eef-a0f0-123fb38a3c07"></a>
 <a href="https://jack.cab"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/45d61d4d-2cd9-4a4d-a8e9-9ad723e0ad4f"></a>
   <a href="https://ublockorigin.com"><img src="https://trypancakes.com/assets/buttons/ublock.png"></a>
       <a href="https://astrid.tech"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/9804eea2-7e6d-4bc8-a414-48e9ab6199df"></a>
