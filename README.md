@@ -10,7 +10,7 @@ TV enthusiast
 
 # My stuff
 
-[email](mailto:hlvoxel@tuta.io) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:konot@teftera.com) | [matrix](https://matrix.to/#/@bird:tchncs.de)
+[email](mailto:hlvoxel@tuta.io) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:shakey@teftera.com) | [matrix](https://matrix.to/#/@bird:tchncs.de)
 
 discord: torchlol
 
