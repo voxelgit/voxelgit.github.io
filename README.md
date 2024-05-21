@@ -28,9 +28,13 @@ discord: torchlol
   <a href="https://bomberfish.ca"><img src="https://bomberfish.ca/buttons/button.gif"></a>              
 <a href="https://tilde.town/~georgemoody/"><img border="1" src="https://tilde.town/~georgemoody/files/button.png"></a>
 <a href="https://jack.cab"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/45d61d4d-2cd9-4a4d-a8e9-9ad723e0ad4f"></a>
+  <a href="https://ublockorigin.com"><img src="https://trypancakes.com/assets/buttons/ublock.png"></a>
       <a href="https://astrid.tech"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/9804eea2-7e6d-4bc8-a414-48e9ab6199df"></a>
       <a href="https://gra.phite.ro"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/e9d5f5eb-b42d-470e-8422-5d75e6bc1bd3"></a>
       <a href="https://freeplay.floof.company"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/8a5bc998-9a68-4344-b3cc-804f16987902"></a>
 <a href="https://melankorin.net/"><img src="https://melankorin.net/assets/img/buttons/button-2.gif" alt=""></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/68877b87-acef-46d2-9358-3cf7c4bc23ab"></a>
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/ed28d206-04e8-4a6e-89bd-9d79937f198a"></a>
+<a href="https://sweetcoffy.pages.gay"><img src="https://sweetcoffy.pages.gay/assets/button.png"></a>
+<a href="https://micro.pages.gay"><img src="https://micro.pages.gay/buttons/micro.png"></a>
+<a href="https://houl.floof.company"><img src="https://houl.floof.company/assets/img/button.png"></a>
