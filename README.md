@@ -1,12 +1,12 @@
-![360_F_503281274_Li3lHoRErsjGiyjiqHBlcjhwewJRJ8cL](https://github.com/cold360/cold360.github.io/assets/164063937/d602517a-25d4-4832-9859-a3f68b23a4ad)
+<a href="https://support.fedi.meme"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/a5b44262-fa8c-4d9a-9175-630aec599674" width="144" height="144"></a>
 
 Voxel
 
 15
 
-LibreWolf is the best browser
+Founder of [Frost](https://f.phite.ro)
 
-TV enthusiast
+LibreWolf is the best browser
 
 # My stuff
 
