@@ -34,6 +34,7 @@ discord: torchlol
       <a href="https://astrid.tech"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/9804eea2-7e6d-4bc8-a414-48e9ab6199df"></a>
       <a href="https://gra.phite.ro"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/e9d5f5eb-b42d-470e-8422-5d75e6bc1bd3"></a>
       <a href="https://blunt.gay"><img src="https://blunt.gay/static/img/badges/bluntgay.png"></a>
+      <a href="https://corru.observer"><img src="https://softkittypa.ws/assets/buttons/corru.gif"></a>
       <a href="https://freeplay.floof.company"><img src="https://freeplay.floof.company/assets/buttons/free.gif"></a>
 <a href="https://melankorin.net/"><img src="https://melankorin.net/assets/img/buttons/button-2.gif" alt=""></a>
 <a href="https://bomberfish.ca"><img src="https://bomberfish.ca/buttons/button.gif"></a>
