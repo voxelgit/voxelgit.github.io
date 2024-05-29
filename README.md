@@ -67,7 +67,11 @@ the [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about 
 
 # hall of fame
 
-if you want your button removed please let me know, i only add them if i like your vibe or if i actually know you
+[susi](https://www.youtube.com/@MaggiePesky) buzz on
+
+[tsunamiii](https://www.youtube.com/@ShizzOwO) do i really have to say it with the fucking 3 I's this is stupid
+
+[slippykin](https://www.youtube.com/@SlipKinny) cool lostwave go yeah
 
  <a href="https://ari.lt"><img src="https://camo.githubusercontent.com/05029a0c926c888dabb4482f9eb8ac06ac540a588cd495401e0a52225ed9a3b8/68747470733a2f2f6172692e6c742f62616467652e706e67"></a>
  <a href="https://constellatory.net"><img src="https://constellatory.net/assets/button.png"></a>
