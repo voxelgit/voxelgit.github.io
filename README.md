@@ -4,7 +4,7 @@ heyo. i'm voxel
 
 **tell me about yourzelf**
 
-most of the time on github i'm just contributing or stuff like 90% and the other 10% is actual projects. i have some stuff on my friend's [forgejo](https://git.gra.phite.ro/the) but that's for less serious stuff, i probably won't use it much but it's neat
+most of the time on github i'm just contributing or stuff like 90% and the other 10% is actual projects. i have some stuff on [forgejo](https://git.gra.phite.ro/the) but that's for less serious stuff, i probably won't use it much but it's neat
 
 i dabble in le html and that's basically the only coding language i know honestly, i started learning code at all at like 14 and i am 15 so you get the idea xD
 
