@@ -1,16 +1,16 @@
-<a href="https://support.fedi.meme"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/a5b44262-fa8c-4d9a-9175-630aec599674" width="144" height="144"></a>
+![1984](https://github.com/Flake6/flake6.github.io/assets/164063937/9d33c93d-f05b-44d6-8472-90ba97239f31)
 
 Voxel
 
 15
 
-Founder of [Frost](https://f.phite.ro)
+I love HTML. HTML makes me go woooooo
 
 LibreWolf is the best browser
 
-# My stuff
+# contact
 
-[email](mailto:hlvoxel@tuta.io) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:shakey@teftera.com) | [matrix](https://matrix.to/#/@bird:tchncs.de)
+[email](mailto:hlvoxel@tuta.io) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:shakey@teftera.com) | [matrix](https://matrix.to/#/@cold:omada.cafe)
 
 discord: torchlol
 
