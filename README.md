@@ -2,7 +2,7 @@
 
 heyo. i'm voxel
 
-*tell me about yourzelf*
+**tell me about yourzelf**
 
 most of the time on github i'm just contributing or stuff like 90% and the other 10% is actual projects. i have some stuff on my friend's [forgejo](https://git.gra.phite.ro/the) but that's for less serious stuff, i probably won't use it much but it's neat
 
@@ -10,13 +10,13 @@ i dabble in le html and that's basically the only coding language i know honestl
 
 i am guatemalan so feel free to call me a taco eater whenever
 
-*which browser do you shill*
+**which browser do you shill**
 
 librewolf is best!
 
-*musik*
+**music**
 
-these guys are neat
+these people are neat
 
 [xorberax](https://soundcloud.com/xorberax/tracks)
 
@@ -30,7 +30,7 @@ these guys are neat
 
 [your favorite martian](https://open.spotify.com/artist/4J6UXkUpIArZbKXhh0cOC2)
 
-*tv*
+**tv**
 
 i watch a lot of tv. i'm an [xbmc](https://kodi.tv) user :trol: here's some shit i like watching
 
@@ -56,8 +56,9 @@ yeah sure here's a list of stuff you can contact me on sorted on how fast i'll g
 
 [matrix](https://matrix.to/#/@cold:omada.cafe) | discord: torchlol | [email](mailto:hlvoxel@tuta.io) | [xmpp](xmpp:shakey@teftera.com)
 
-
 i'm also on the [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot
+
+and last not but very not least my awesome [discord server](https://dsc.gg/goofygoobers)
 
 # hall of fame
 
