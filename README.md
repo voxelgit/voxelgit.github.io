@@ -1,20 +1,25 @@
-![1984](https://github.com/Flake6/flake6.github.io/assets/164063937/9d33c93d-f05b-44d6-8472-90ba97239f31)
+heyo. i'm voxel
 
-Voxel
+most of the time on github i'm just contributing or stuff like 90% and the other 10% is actual projects. i have some stuff on my friend's [forgejo](https://git.gra.phite.ro/the) but that's for less serious stuff, i probably won't use it much but it's neat
 
-15
+i dabble in le html and that's basically the only coding language i know honestly, i started learning code at all at like 14 and i am 15 so you get the idea xD
 
-I love HTML. HTML makes me go woooooo
+i am guatemalan so feel free to call me a taco eater whenever
 
-LibreWolf is the best browser
+librewolf is best browser!¡!
 
-# contact
+# can i hyu
 
-[email](mailto:hlvoxel@tuta.io) | [fediverse](https://plasmatrap.com/@glorb) | [xmpp](xmpp:shakey@teftera.com) | [matrix](https://matrix.to/#/@cold:omada.cafe)
+yeah sure here's a list of stuff you can contact me on sorted on how fast i'll generally respond
 
-discord: torchlol
+[matrix](https://matrix.to/#/@cold:omada.cafe) | discord: torchlol | [email](mailto:hlvoxel@tuta.io) | [xmpp](xmpp:shakey@teftera.com)
 
-# Le buttons
+
+i'm also on the [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot
+
+# hall of fame
+
+if you want your button removed please let me know, i only add them if i like your vibe or if i actually know you
 
  <a href="https://ari.lt"><img src="https://camo.githubusercontent.com/05029a0c926c888dabb4482f9eb8ac06ac540a588cd495401e0a52225ed9a3b8/68747470733a2f2f6172692e6c742f62616467652e706e67"></a>
  <a href="https://constellatory.net"><img src="https://constellatory.net/assets/button.png"></a>
