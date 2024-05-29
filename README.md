@@ -52,13 +52,18 @@ Bazinga.
 
 # can i hyu 🥺
 
-yeah sure here's a list of stuff you can contact me on sorted on how fast i'll generally respond
+yeah sure here's a list of stuff i'm on
+
+contact: sorted on how fast i'll respond
 
 [matrix](https://matrix.to/#/@cold:omada.cafe) | discord: torchlol | [email](mailto:hlvoxel@tuta.io) | [xmpp](xmpp:shakey@teftera.com)
 
-i'm also on the [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot
+my awesome [discord server](https://dsc.gg/goofygoobers)
 
-and last not but very not least my awesome [discord server](https://dsc.gg/goofygoobers)
+socials:
+
+the [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot | [vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (youtube but meh) | [youtube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT this is very outdated im too lazy to touch this again give me like 3 months)
+
 
 # hall of fame
 
