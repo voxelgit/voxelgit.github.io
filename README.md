@@ -1,79 +1,71 @@
-<a href="https://voxel.is-a.dev/root.html"><img src="https://github.com/Flake6/flake6.github.io/assets/164063937/49e6ec87-b40e-4e43-8261-3b713f27a6ac"></a>
+<a href="https://voxel.is-a.dev/"><img src="https://github.com/shiawasevip/shiawasevip.github.io/assets/164063937/eaaf8922-b4df-4c3f-911d-26da3593216a"  width="177" height="177"></a>
 
-heyo. i'm voxel
+Well hello there
 
-**tell me about yourzelf**
+I am Voxel. Bet you didn't know that
 
-most of the time on github i'm just contributing or stuff like 90% and the other 10% is actual projects. i have some stuff on [forgejo](https://git.gra.phite.ro/the) but that's for less serious stuff, i probably won't use it much but it's neat
+Most of the time on github I'm just contributing, like 10% is actual projects. I have some stuff on [Forgejo](https://git.gra.phite.ro/the) but I probably won't use it much, it's neat though
 
-i dabble in le html and that's basically the only coding language i know honestly, i started learning code at all at like 14 and i am 15 so you get the idea xD
+I dabble in HTML and that's basically the only coding language I know honestly, I started learning code at all at like 14 and I'm 15 xD
 
-i am guatemalan so feel free to call me a taco eater whenever
+I am Guatemalan so feel free to call me a taco eater whenever
 
-**which browser do you shill**
+**Which browser do you shill**
 
-librewolf is best!
+LibreWolf
 
-**music**
+**Music**
 
-these people are neat
+These people are neat
 
-[xorberax](https://soundcloud.com/xorberax/tracks)
+[Xorberax](https://soundcloud.com/xorberax/tracks)
 
-[twenty one pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx)
+[Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx)
 
-[gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ)
+[Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ)
 
-[tame impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb)
+[Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb)
 
-[sacri](https://soundcloud.com/bfditpot)
+[Sacri](https://soundcloud.com/bfditpot)
 
-[skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX)
+[Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX)
 
-[your favorite martian](https://open.spotify.com/artist/4J6UXkUpIArZbKXhh0cOC2)
+[Your Favorite Martian](https://open.spotify.com/artist/4J6UXkUpIArZbKXhh0cOC2)
 
-**tv**
+**TV**
 
-i watch a lot of tv. i'm an [xbmc](https://kodi.tv) user :trol: here's some shit i like watching
+I watch a lot of TV. I'm an [XBMC](https://kodi.tv) user :trol: here's some shit i like watching
 
 [smiling friends](https://www.imdb.com/title/tt12074628/)
 
-company that loves to make people smile but they probably end up killing at least one person every episode
-
 [superjail](https://www.imdb.com/title/tt1031283/)
-
-they somewhat love to make people smile but they will DEFINITELY end up killing hundreds of prisoners for entertainment
 
 [yolo](https://www.imdb.com/title/tt12058366/)
 
-australian tv is just. gold. i cant elaborate go watch this yourself
-
 [young sheldon](https://en.wikipedia.org/wiki/Young_Sheldon)
 
-Bazinga.
+# Can I hyu 🥺
 
-# can i hyu 🥺
+Yeah sure here's a list of stuff I'm on
 
-yeah sure here's a list of stuff i'm on
+Contact: sorted on how fast I'll respond
 
-contact: sorted on how fast i'll respond
+[Matrix](https://matrix.to/#/@cold:omada.cafe) | Discord: shiawasevip | [Email](mailto:hlvoxel@tuta.io) | [Jabber](xmpp:shakey@teftera.com)
 
-[matrix](https://matrix.to/#/@cold:omada.cafe) | discord: torchlol | [email](mailto:hlvoxel@tuta.io) | [xmpp](xmpp:shakey@teftera.com)
+My awesome [Discord server](https://dsc.gg/goofygoobers)
 
-my awesome [discord server](https://dsc.gg/goofygoobers)
+Socials:
 
-socials:
-
-the [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot | [vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (youtube but meh) | [youtube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT this is very outdated im too lazy to touch this again give me like 3 months)
+The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot | [Vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (YouTube but meh) | [YouTube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT: This is very outdated and I'm too lazy to touch this again so give me like 3 months)
 
 
-# hall of fame
+# Hall Of Fame
 
-[susi](https://www.youtube.com/@MaggiePesky) buzz on
+[Susi](https://www.youtube.com/@MaggiePesky) Dabuzawnmagi
 
-[tsunamiii](https://www.youtube.com/@ShizzOwO) do i really have to say it with the fucking 3 I's this is stupid
+[Rsunamiii](https://www.youtube.com/@ShizzOwO) Awesome nerd RPG addict
 
-[slippykin](https://www.youtube.com/@SlipKinny) cool lostwave go yeah
+[Slippykin](https://www.youtube.com/@SlipKinny) Cool lostwave go yeah
 
  <a href="https://ari.lt"><img src="https://camo.githubusercontent.com/05029a0c926c888dabb4482f9eb8ac06ac540a588cd495401e0a52225ed9a3b8/68747470733a2f2f6172692e6c742f62616467652e706e67"></a>
  <a href="https://constellatory.net"><img src="https://constellatory.net/assets/button.png"></a>
