@@ -12,7 +12,7 @@ I am Guatemalan so feel free to call me a taco eater whenever
 
 Also here's my shitty button in case you want to link to here on your site :D
 
-<a href="https://voxel.is-a.dev"><img src="https://voxel.is-a.dev/coolbutton.gif"></a>
+<a href="https://voxel.is-a.dev"><img src="https://voxel.is-a.dev/cool-button.gif"></a>
 
 **Which browser do you shill**
 
