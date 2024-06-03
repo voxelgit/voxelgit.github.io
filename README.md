@@ -38,15 +38,15 @@ These people are neat.
 
 **TV**
 
-I watch a lot of TV. I'm an [XBMC](https://kodi.tv) user :trol: here's some shit i like watching
+I watch a lot of TV. I'm an [XBMC](https://kodi.tv) user :trol: Here's some shit i like watching
 
-[smiling friends](https://www.imdb.com/title/tt12074628/)
+[Smiling Friends](https://www.imdb.com/title/tt12074628/)
 
-[superjail](https://www.imdb.com/title/tt1031283/)
+[Superjail](https://www.imdb.com/title/tt1031283/)
 
-[yolo](https://www.imdb.com/title/tt12058366/)
+[YOLO](https://www.imdb.com/title/tt12058366/)
 
-[young sheldon](https://en.wikipedia.org/wiki/Young_Sheldon)
+[Young Sheldon](https://en.wikipedia.org/wiki/Young_Sheldon)
 
 # Can I hyu 🥺
 
