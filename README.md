@@ -72,14 +72,13 @@ The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about 
 [Slippykin](https://www.youtube.com/@SlipKinny) Cool lostwave go yeah
 
  <a href="https://ari.lt"><img src="https://camo.githubusercontent.com/05029a0c926c888dabb4482f9eb8ac06ac540a588cd495401e0a52225ed9a3b8/68747470733a2f2f6172692e6c742f62616467652e706e67"></a>
- <a href="https://constellatory.net"><img src="https://constellatory.net/assets/button.png"></a>
+  <a href="https://arrayinamatrix.xyz"><img src="https://arrayinamatrix.xyz/res/site/banners/custom/black_88x31.gif"></a>
  <a href="https://fsky.io"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/be1c0764-0a9d-4db0-a43f-8bc212cb55fa"></a>
- <a href="https://mintchocolate.rocks"><img src="https://github.com/Flake6/flake6.github.io/assets/164063937/3da4fbd1-c26f-47dc-abda-1e90832fc125"></a>
  <a href="https://aagaming.me"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/10652165-d245-4880-8a48-da2c4e7765af"></a>
- <a href="https://arrayinamatrix.xyz"><img src="https://arrayinamatrix.xyz/res/site/banners/custom/black_88x31.gif"></a>
+   <a href="https://authenyo.xyz"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/5b2ee765-9d3d-434e-b18a-6d456004ce26"></a>
+ <a href="https://mintchocolate.rocks"><img src="https://github.com/Flake6/flake6.github.io/assets/164063937/3da4fbd1-c26f-47dc-abda-1e90832fc125"></a>
+   <a href="https://sleepy.ink"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/43cea81d-ff51-4223-978c-3e93c2295c58"></a>
   <a href="https://trypancakes.com"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/fb58a146-269d-45c6-81e0-6d27989aff72"></a>
-  <a href="https://authenyo.xyz"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/5b2ee765-9d3d-434e-b18a-6d456004ce26"></a>
-  <a href="https://sleepy.ink"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/43cea81d-ff51-4223-978c-3e93c2295c58"></a>
   <a href="https://omada.cafe/"><img src="https://omada.cafe/omada.gif" alt="website button for omada.cafe, an private and secure alternative provider.">
   <a href="https://robin-black.com"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/76e6a594-348b-495b-84b2-69e0134ba654"></a>
 <a href="https://tilde.town/~georgemoody/"><img border="1" src="https://tilde.town/~georgemoody/files/button.png"></a>
@@ -92,6 +91,7 @@ The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about 
       <a href="https://blunt.gay"><img src="https://blunt.gay/static/img/badges/bluntgay.png"></a>
       <a href="https://freeplay.floof.company"><img src="https://freeplay.floof.company/assets/buttons/free.gif"></a>
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/ed28d206-04e8-4a6e-89bd-9d79937f198a"></a>
+ <a href="https://constellatory.net"><img src="https://constellatory.net/assets/button.png"></a>
 <a href="https://sweetcoffy.pages.gay"><img src="https://sweetcoffy.pages.gay/assets/button.png"></a>
 <a href="https://charlie.downgraded.uk"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/19f6ad96-31b0-4ceb-a618-43c90958392f"></a>
 <a href="https://ultra0.xyz"><img src="https://ultra0.xyz/assets/basement_button-8bb3ccbe62d39618ce72f3ab1e78dd9e32c99f2a.gif"></a>
