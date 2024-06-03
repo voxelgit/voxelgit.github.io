@@ -10,13 +10,17 @@ I dabble in HTML and that's basically the only coding language I know honestly, 
 
 I am Guatemalan so feel free to call me a taco eater whenever
 
+Also here's my shitty button in case you want to link to here on your site :D
+
+<a href="https://voxel.is-a.dev"><img src="https://voxel.is-a.dev/voxel-button.gif"></a>
+
 **Which browser do you shill**
 
-LibreWolf
+LibreWolf!!
 
 **Music**
 
-These people are neat
+These people are neat.
 
 [Xorberax](https://soundcloud.com/xorberax/tracks)
 
