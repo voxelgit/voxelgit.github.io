@@ -1,4 +1,4 @@
-<a href="https://voxel.is-a.dev/"><img src="https://github.com/shiawasevip/shiawasevip.github.io/assets/164063937/eaaf8922-b4df-4c3f-911d-26da3593216a"  width="177" height="177"></a>
+<a href="https://voxel.is-a.dev/"><img src="https://avatars.githubusercontent.com/u/164063937"  width="177" height="177"></a>
 
 Well hello there
 
@@ -54,14 +54,14 @@ Yeah sure here's a list of stuff I'm on
 
 Contact: sorted on how fast I'll respond
 
-[Matrix](https://matrix.to/#/@cold:omada.cafe) | Discord: shiawasevip | [Email](mailto:hlvoxel@tuta.io) | [Jabber](xmpp:shakey@teftera.com)
+Discord: shiawasevip | [Matrix](https://matrix.to/#/@cold:omada.cafe) | [Email](mailto:voxel@eclipso.at) | [Jabber](xmpp:shakey@teftera.com)
 
-My awesome [Discord server](https://dsc.gg/goofygoobers)
+My awesome [Discord server](https://dsc.gg/wavesmiley)
 
 Socials:
 
-The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot | [Vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (YouTube but meh) | [YouTube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT: This is very outdated and I'm too lazy to touch this again so give me like 3 months)
-
+The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot | [Vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (YouTube but meh) | [YouTube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT: This is very outdated and I'm too lazy to touch this again so give me like 3 months) | [YouTube (TV archival)](https://youtube.com/@tvvoxel)
+ 
 
 # Hall Of Fame
 
