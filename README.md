@@ -54,13 +54,13 @@ Yeah sure here's a list of stuff I'm on
 
 Contact: sorted on how fast I'll respond
 
-Discord: shiawasevip | [Matrix](https://matrix.to/#/@cold:omada.cafe) | [Email](mailto:voxel@eclipso.at) | [Jabber](xmpp:shakey@teftera.com)
+Discord: shesaydoyoulovemeitellher | [Matrix](https://matrix.to/#/@cold:omada.cafe) | [Email](mailto:voxel@eclipso.at) | [Jabber](xmpp:shakey@teftera.com)
 
 My awesome [Discord server](https://dsc.gg/wavesmiley)
 
 Socials:
 
-The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot | [Vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (YouTube but meh) | [YouTube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT: This is very outdated and I'm too lazy to touch this again so give me like 3 months) | [YouTube (TV archival)](https://youtube.com/@tvvoxel)
+The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot | [Vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (YouTube but meh) | [YouTube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT: This is very outdated and I'm too lazy to touch this again so give me like 3 months) | [YouTube (TV archival)](https://youtube.com/@tvvoxel) | [Web channel](https://twitch.tv/blendnetwork)
  
 
 # Hall Of Fame
