@@ -16,7 +16,7 @@ Also here's my shitty button in case you want to link to here on your site :D
 
 **Which browser do you shill**
 
-LibreWolf!!
+Firefox
 
 **Music**
 
@@ -38,7 +38,7 @@ These people are neat.
 
 **TV**
 
-I watch a lot of TV. I'm an [XBMC](https://kodi.tv) user :trol: Here's some shit i like watching
+I watch a lot of TV. I'm an [XBMC](https://kodi.tv) user 😈 Here's some shit i like watching
 
 [Smiling Friends](https://www.imdb.com/title/tt12074628/)
 
@@ -54,7 +54,7 @@ Yeah sure here's a list of stuff I'm on
 
 Contact: sorted on how fast I'll respond
 
-Discord: shesaydoyoulovemeitellher | [Matrix](https://matrix.to/#/@cold:omada.cafe) | [Email](mailto:voxel@eclipso.at) | [Jabber](xmpp:shakey@teftera.com)
+Discord: realdoorknobs | [Matrix](https://matrix.to/#/@cold:omada.cafe) | [Email](mailto:shoebill@tutanota.de) | [XMPP/Jabber](xmpp:the@telepath.im)
 
 My awesome [Discord server](https://dsc.gg/wavesmiley)
 
