@@ -4,7 +4,7 @@ Well hello there
 
 I am Voxel. Bet you didn't know that
 
-Most of the time on github I'm just contributing, like 10% is actual projects. I have some stuff on [Forgejo](https://git.gra.phite.ro/the) but I probably won't use it much, it's neat though
+Most of the time on github I'm just contributing, like 10% is actual projects. I have some stuff on [Forgejo](https://git.gra.phite.ro/flake) but I probably won't use it much, it's neat though
 
 I dabble in HTML and that's basically the only coding language I know honestly, I started learning code at all at like 14 and I'm 15 xD
 
@@ -54,13 +54,13 @@ Yeah sure here's a list of stuff I'm on
 
 Contact: sorted on how fast I'll respond
 
-Discord: realdoorknobs | [Matrix](https://matrix.to/#/@cold:omada.cafe) | [Email](mailto:shoebill@tutanota.de) | [XMPP/Jabber](xmpp:the@telepath.im)
+Discord: index.m3u8 | [Matrix](https://matrix.to/#/@cold:omada.cafe) | [Email](mailto:shoebill@tutanota.de) | [XMPP/Jabber](xmpp:the@telepath.im) | Brawl Stars ID: 2YVVQ8RRUR
 
 My awesome [Discord server](https://dsc.gg/wavesmiley)
 
 Socials:
 
-The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot | [Vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (YouTube but meh) | [YouTube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT: This is very outdated and I'm too lazy to touch this again so give me like 3 months) | [YouTube (TV archival)](https://youtube.com/@tvvoxel) | [Web channel](https://twitch.tv/blendnetwork)
+The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot | [Vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (YouTube but meh) | [YouTube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT: This is very outdated and I'm too lazy to touch this again so give me like 3 months) | [YouTube (TV archival)](https://youtube.com/@tvvoxel) | [Web channel](https://voxel.is-a.dev/blend)
  
 
 # Hall Of Fame
