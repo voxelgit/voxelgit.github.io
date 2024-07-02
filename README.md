@@ -52,7 +52,7 @@ I watch a lot of TV. I'm an [XBMC](https://kodi.tv) user 😈 Here's some shit i
 
 # My stuff
 
-Discord: index.m3u8 | [Matrix](https://matrix.to/#/@river:crossbach.de) | [Email](mailto:lake@ari.lt) | [XMPP/Jabber](xmpp:the@telepath.im) | Brawl Stars ID: 2YVVQ8RRUR
+Discord: index.m3u8 | [Matrix](https://matrix.to/#/@river:crossbach.de) | [Email](mailto:lake@shitposting.expert) | [XMPP/Jabber](xmpp:the@telepath.im) | Brawl Stars ID: 2YVVQ8RRUR
 
 My awesome [Discord server](https://dsc.gg/wavesmiley)
 
