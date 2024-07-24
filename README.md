@@ -52,11 +52,11 @@ I watch a lot of TV. I'm an [XBMC](https://kodi.tv) user 😈 Here's some shit i
 
 # My stuff
 
-Discord: index.m3u8 | [Matrix](https://matrix.to/#/@river:crossbach.de) | [Email](mailto:lake@shitposting.expert) | [XMPP/Jabber](xmpp:the@telepath.im) | Brawl Stars ID: 2YVVQ8RRUR
+Discord: tvheadend | [Matrix](https://matrix.to/#/@river:crossbach.de) | [Email](mailto:lake@shitposting.expert) | [XMPP/Jabber](xmpp:the@telepath.im) | Brawl Stars ID: 2YVVQ8RRUR
 
 My awesome [Discord server](https://dsc.gg/wavesmiley)
 
-The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about stuff and be an idiot | [Vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (YouTube but meh) | [YouTube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT: This is very outdated and I'm too lazy to touch this again so give me like 3 months) | [YouTube (TV archival)](https://youtube.com/@tvvoxel) | [Web channel](https://blend.sytes.net)
+The [fediverse](https://plasmatrap.com/@glorb) INACTIVE | [Vanillo](https://vanillo.tv/u/fuBYTeosSlqEzaatnbbKYg) (YouTube but meh) | [YouTube](https://youtube.com/@ihatedietsoda) (CRINGE ALERT: This is very outdated and I'm too lazy to touch this again so give me like 3 months) | [YouTube (TV archival)](https://youtube.com/@tvvoxel) | [Web channel group](https://divine.sytes.net)
  
 
 # Hall Of Fame
@@ -65,7 +65,7 @@ The [fediverse](https://plasmatrap.com/@glorb) if you want to see me rant about 
 
 [Tsunamiii](https://www.youtube.com/@ShizzOwO) Awesome nerd RPG addict
 
-[Slippykin](https://www.youtube.com/@SlipKinny) Cool lostwave go yeah
+[Slippykin](https://www.youtube.com/@SlipKinny) Lostwave go brrr haha
 
  <a href="https://ari.lt"><img src="https://camo.githubusercontent.com/05029a0c926c888dabb4482f9eb8ac06ac540a588cd495401e0a52225ed9a3b8/68747470733a2f2f6172692e6c742f62616467652e706e67"></a>
   <a href="https://freerobux.win"><img src="https://split.pet/88x31/freerobux-raised-optimized.gif"></a>
