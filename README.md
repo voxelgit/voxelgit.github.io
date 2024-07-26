@@ -84,12 +84,10 @@ The [fediverse](https://plasmatrap.com/@glorb) INACTIVE | [Vanillo](https://vani
   <a href="https://ublockorigin.com"><img src="https://trypancakes.com/assets/buttons/ublock.png"></a>
       <a href="https://astrid.tech"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/9804eea2-7e6d-4bc8-a414-48e9ab6199df"></a>
       <a href="https://gra.phite.ro"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/e9d5f5eb-b42d-470e-8422-5d75e6bc1bd3"></a>
-      <a href="https://blunt.gay"><img src="https://blunt.gay/static/img/badges/bluntgay.png"></a>
       <a href="https://freeplay.floof.company"><img src="https://freeplay.floof.company/assets/buttons/free.gif"></a>
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/ed28d206-04e8-4a6e-89bd-9d79937f198a"></a>
  <a href="https://constellatory.net"><img src="https://constellatory.net/assets/button.png"></a>
 <a href="https://sweetcoffy.pages.gay"><img src="https://sweetcoffy.pages.gay/assets/button.png"></a>
-<a href="https://charlie.downgraded.uk"><img src="https://github.com/cold360/cold360.github.io/assets/164063937/19f6ad96-31b0-4ceb-a618-43c90958392f"></a>
 <a href="https://ultra0.xyz"><img src="https://ultra0.xyz/assets/basement_button-8bb3ccbe62d39618ce72f3ab1e78dd9e32c99f2a.gif"></a>
 <a href="https://notnite.com"><img src="https://n2.pm/88x31s/notnite.png"></a>
 <a href="https://code.visualstudio.com"><img src="https://notnite.com/buttons/vscbutton.gif"></a>
