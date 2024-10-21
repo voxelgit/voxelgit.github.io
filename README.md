@@ -11,7 +11,7 @@ im also a dumb network community guy and i like uk tv
 
 # my stuff
 
-Discord: voxel360 | [Matrix](https://matrix.to/#/@vox:private.coffee) | [Email](mailto:lake@ari.lt) | [XMPP/Jabber](xmpp:the@telepath.im) | Supercell ID: flashcrate
+Discord: voxel360 | [Matrix](https://matrix.to/#/@coconutwat3r:matrix.org) | [Email](mailto:lake@ari.lt) | [XMPP/Jabber](xmpp:the@telepath.im) | Supercell ID: flashcrate
 
 My awesome [Discord server](https://dsc.gg/wavesmiley)
 
