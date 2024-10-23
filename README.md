@@ -26,7 +26,8 @@ The [fediverse](https://plasmatrap.com/@glorb)
 
 [Tsunamii](https://www.youtube.com/@ShizzOwO) Awesome nerd RPG addict
 
- <a href="https://ari.lt"><img src="https://ari.lt/badge.png"></a>
+ <a href="https://voxel.fsky.io"><img src="https://voxel.fsky.io/voxel.gif"></a>
+<a href="https://ari.lt"><img src="https://ari.lt/badge.png"></a>
   <a href="https://lucida.to"><img src="https://lucida.to/buttons/freemusicnow.png"></a>
   <a href="https://arrayinamatrix.xyz"><img src="https://arrayinamatrix.xyz/res/site/banners/custom/black_88x31.gif"></a>
  <a href="https://fsky.io"><img src="https://github.com/voxel-im/voxel-im.github.io/assets/164063937/be1c0764-0a9d-4db0-a43f-8bc212cb55fa"></a>
